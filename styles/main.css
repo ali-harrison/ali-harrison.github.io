@@ -11,6 +11,11 @@ h1 {
   margin: 20px 0;
   text-transform: uppercase;
   letter-spacing: 2px;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-top: 0;
 }
 
 body {
