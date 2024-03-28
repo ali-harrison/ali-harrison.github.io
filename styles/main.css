@@ -2,15 +2,13 @@ body {
   font-family: 'Oswald', sans-serif;
   margin: 0;
   padding: 0;
-  background: linear-gradient(135deg, #f8f8f8, #aaaaaa);
-  color: #0a0a0a;
+  background: linear-gradient(135deg, #fcfafa, #f8f8f8);
+  color: #050505;
 }
 
 header {
   height: auto;
-  background: linear-gradient(135deg, #f8f8f8, #aaaaaa);
   color: white;
-  padding: 10px;
   text-align: center;
 }
 
@@ -21,17 +19,17 @@ header img {
 
 h1 {
   font-size: 40px;
-  margin: 20px 0;
+  margin: 0px 0;
   text-transform: uppercase;
-  -webkit-text-stroke: 0.3px rgb(253, 253, 253);
   letter-spacing: 2px;
   text-align: center;
 }
 
 p {
   margin: 0;
-  margin-bottom: 2px;
+  margin-bottom: 1px;
   text-align: center;
+  font-size: 15px;
 }
 
 .button-container {
