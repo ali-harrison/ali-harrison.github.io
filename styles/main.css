@@ -38,11 +38,11 @@ p {
 }
 
 .button {
-  padding: 10px 20px;
+  padding: 10px 10px;
   background-color: #007bff;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   margin-right: 10px;
 }
@@ -80,4 +80,8 @@ ol {
 
 .home-button:hover {
   background-color: #0056b3;
+}
+
+li {
+  border-radius: 10px;
 }
