@@ -2,7 +2,7 @@ body {
   font-family: 'Oswald', sans-serif;
   margin: 0;
   padding: 0;
-  background: linear-gradient(135deg, #388af5, #fcd88a);
+  background: linear-gradient(135deg, #f6f6f7, #e0f9fd);
   color: #050505;
 }
 
@@ -62,6 +62,7 @@ p {
 ul,
 ol {
   list-style-type: none;
+  margin-bottom: 20;
 }
 
 .home-button {
@@ -164,3 +165,13 @@ a {
   cursor: pointer;
 }
 
+b {
+margin-top: 10px;
+margin-bottom: 20px;
+}
+
+
+li {
+margin-bottom: 10px;
+
+}
